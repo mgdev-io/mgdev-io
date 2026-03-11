@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there.
 
-<!--
-**mgdev-io/mgdev-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 13 and I like to build things. Currently spending most of my time learning Python and poking around with cybersecurity.
 
-Here are some ideas to get you started:
+### What I'm working on lately
+* **Python:** Mostly writing scripts that automate things I do manually.
+* **Security:** Practicing with stuff like nmap or JtR and learning how things work under the hood
+* **Current goal:** Just trying to get better at (I'm still learning, but I know a lot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stuff
+* [Scrypter](https://github.com/mgdev-io/scrypter) - A simple file encryptor-decryptor using fernet from the cryptography library
+* [QRCode generator](https://github.com/mgdev-io/qrcode_generator) - Another thing I built.
+
+---
+*Always learning.*
